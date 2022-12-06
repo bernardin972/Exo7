@@ -1,0 +1,1 @@
+alert ("Exercice 7");
